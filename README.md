@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on [The Odin Project](https://theodinproject.com)
 
-- 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React,Python and Bash scripting**
+- 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React, Python and Bash scripting**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/itsalexi?tab=repositories)
 

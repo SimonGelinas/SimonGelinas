@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React, Python and Bash scripting**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/itsalexi?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/SimonGelinas?tab=repositories)
 
 
 <h3 align="left">Connect with me:</h3>

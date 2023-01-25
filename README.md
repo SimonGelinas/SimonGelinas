@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Gélinas</h1>
 <h3 align="center">A system administrator from Quebec city</h3>
 
- 🔭 I’m currently working on [The Odin Project](https://theodinproject.com)
+- 🔭 I’m currently working on [The Odin Project](https://theodinproject.com)
 
 - 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React, Python and Bash scripting**
 

@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Simon Gélinas</h1>
 <h3 align="center">A system administrator from Quebec city</h3>
 
+ 🔭 I’m currently working on [The Odin Project](https://theodinproject.com)
+
+- 🌱 I’m currently learning **HTML, CSS, JS, NodeJS, React,Python and Bash scripting**
+
+- 👨‍💻 All of my projects are available [here](https://github.com/itsalexi?tab=repositories)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/simon-gelinas-4296ja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simon-gelinas-4296ja/" height="30" width="40" /></a>
